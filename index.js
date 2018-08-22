@@ -24,3 +24,6 @@ function makeInt(n,base) {
   var parsed = parseInt(n,base)
   return parsed
 }
+function preservedDecimal(n){
+  var parsed = parseFloat(n)
+}
