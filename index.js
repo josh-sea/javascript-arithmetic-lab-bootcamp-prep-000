@@ -18,6 +18,7 @@ function dec(n) {
   n--
   return n;
 }
+
 function makeInt(n) {
- retrun makeint.parseInt('n')
+  parseInt(${n},10)
 }
